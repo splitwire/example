@@ -1,0 +1,25 @@
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 4em;
+}
+
+.center {
+  text-align: center;
+}
